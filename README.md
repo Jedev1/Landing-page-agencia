@@ -12,7 +12,7 @@ Projeto feito no intuito de mostrar minha capacidade, como desenvolvedor web fro
 
 ## 🤯 O site é composto por:
 
-- **Home:** Minha apresentação;
+- **Home:** Apresentando a página;
 - **Sobre:** Um pouco sobre o que a empresa faz;
 - **Projetos:** Alguns projetos recentes que foram feito;
 - **Fale comigo:** Área com meios para contato comigo;
